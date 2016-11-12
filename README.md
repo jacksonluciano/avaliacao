@@ -3,5 +3,4 @@ Avaliação da disciplina EJB, Webservices
 
 Alunos:
 
-Everton Batista
-Jackson Luciano
+Everton Batista e Jackson Luciano
